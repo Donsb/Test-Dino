@@ -1,0 +1,14 @@
+/* 
+  File.strings
+  Test Dino
+
+  Created by Donald Belliveau on 2018-04-03.
+  Copyright © 2018 Donald Belliveau. All rights reserved.
+*/
+
+"question11" = "Tyrannosaurus is Greek for tyrant lizard. Rex is Latin for God"; // F
+"comment11" = "Rex is Latin for King. Tyrannosaurus rex is often abbreviated to T-Rex";
+"question12" = "T-Rex lived in an area on Earth that now is western North America"; // T
+"comment12" = "Tyrannosaurus rex lived in the late Cretaceous Period, around 66 million years ago";
+"question13" = "The skull of a T-Rex alone measured up to 1.5m (5ft) long"; //T
+"comment13" = "T-Rex measured up to 13m (42ft) in length, 4m (13ft) at the hip and could weigh up to 7 tons!";
